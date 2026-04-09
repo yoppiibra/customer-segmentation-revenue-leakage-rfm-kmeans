@@ -110,9 +110,9 @@ Customers segmented based on:
 
 | Cluster   | Characteristics                        | Business Meaning   |
 | --------- | -------------------------------------- | ------------------ |
-| Cluster 1 | Low Recency, High Frequency & Monetary | 🔥 Loyal Customers |
-| Cluster 0 | متوسط values                           | Regular Customers  |
-| Cluster 2 | High Recency, Low Frequency & Monetary | ⚠️ Churn Risk      |
+| Cluster 1 | Moderate values                        | Regular Customers  |
+| Cluster 2 | Low Recency, High Frequency & Monetary | 🔥 Loyal Customers |
+| Cluster 0 | High Recency, Low Frequency & Monetary | ⚠️ Churn Risk      |
 
 👉 **Insight:**
 Customers can be grouped into 3 actionable segments for targeted strategies.
