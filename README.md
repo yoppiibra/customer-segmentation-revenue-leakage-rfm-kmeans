@@ -1,5 +1,12 @@
 # 📊 Customer Segmentation & Revenue Leakage Analysis Using RFM and K-Means
 
+## 🚀 Key Results
+
+- Identified 3 main customer segments: Loyal, Regular, and Churn Risk  
+- Found that ~6–7% of revenue is lost due to returns (revenue leakage)  
+- Revealed that a small group of customers contributes most of the revenue  
+
+
 ## 🧠 Overview
 
 This project aims to analyze customer behavior and identify key business opportunities using a data-driven approach. By combining **RFM (Recency, Frequency, Monetary) analysis** with **K-Means clustering**, this project uncovers:
